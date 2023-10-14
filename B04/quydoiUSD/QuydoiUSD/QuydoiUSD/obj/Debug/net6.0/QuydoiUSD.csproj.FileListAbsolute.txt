@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\QuydoiUSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\QuydoiUSD.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\QuydoiUSD.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\QuydoiUSD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\bin\Debug\net6.0\QuydoiUSD.exe
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\bin\Debug\net6.0\QuydoiUSD.deps.json
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\bin\Debug\net6.0\QuydoiUSD.runtimeconfig.json
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\bin\Debug\net6.0\QuydoiUSD.dll
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\bin\Debug\net6.0\QuydoiUSD.pdb
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\QuydoiUSD.dll
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\refint\QuydoiUSD.dll
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\QuydoiUSD.pdb
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\QuydoiUSD.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GYMCODE\B04\quydoiUSD\QuydoiUSD\QuydoiUSD\obj\Debug\net6.0\ref\QuydoiUSD.dll
