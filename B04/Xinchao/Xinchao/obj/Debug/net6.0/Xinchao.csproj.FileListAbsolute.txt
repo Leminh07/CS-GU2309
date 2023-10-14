@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Xinchao\Xinchao\bin\Debug\net6.0\Xinchao.exe
+C:\Users\Admin\Desktop\Xinchao\Xinchao\bin\Debug\net6.0\Xinchao.deps.json
+C:\Users\Admin\Desktop\Xinchao\Xinchao\bin\Debug\net6.0\Xinchao.runtimeconfig.json
+C:\Users\Admin\Desktop\Xinchao\Xinchao\bin\Debug\net6.0\Xinchao.dll
+C:\Users\Admin\Desktop\Xinchao\Xinchao\bin\Debug\net6.0\Xinchao.pdb
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\Xinchao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\Xinchao.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\Xinchao.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\Xinchao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\Xinchao.dll
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\refint\Xinchao.dll
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\Xinchao.pdb
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\Xinchao.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Xinchao\Xinchao\obj\Debug\net6.0\ref\Xinchao.dll

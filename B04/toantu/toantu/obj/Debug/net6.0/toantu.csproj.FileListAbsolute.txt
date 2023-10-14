@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\toantu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\toantu.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\toantu.AssemblyInfo.cs
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\toantu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\toantu\toantu\bin\Debug\net6.0\toantu.exe
+C:\Users\Admin\Desktop\toantu\toantu\bin\Debug\net6.0\toantu.deps.json
+C:\Users\Admin\Desktop\toantu\toantu\bin\Debug\net6.0\toantu.runtimeconfig.json
+C:\Users\Admin\Desktop\toantu\toantu\bin\Debug\net6.0\toantu.dll
+C:\Users\Admin\Desktop\toantu\toantu\bin\Debug\net6.0\toantu.pdb
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\toantu.dll
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\refint\toantu.dll
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\toantu.pdb
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\toantu.genruntimeconfig.cache
+C:\Users\Admin\Desktop\toantu\toantu\obj\Debug\net6.0\ref\toantu.dll
